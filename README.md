@@ -48,3 +48,9 @@ Run the following commands in the `svg/` directory to get PNGs of a desired widt
     rm *.png
 
 The resultant files will be in the `compressed-pngs` folder. As before, `1000:` is the dimensions to export.
+
+
+New folders to get png by cioc
+==============================
+Images have been crossed against https://restcountries.eu/rest/v2/all to get a new collection of the flags named by its cioc (203 flags)
+The resulting files are in folders "png100px_by_cioc" and "png250px_by_cioc"
